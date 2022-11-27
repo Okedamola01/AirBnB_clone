@@ -278,4 +278,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Ademileke12** <[Ademileke](https://github.com/Ademileke12)>
+* **okedamola01** <[okedamola01](https://github.com/Ademileke12)>
